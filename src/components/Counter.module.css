@@ -22,4 +22,6 @@
 .value {
   font-size: 2rem;
   color: #3c0080;
-  m
+  margin: 2rem 0;
+  font-weight: bold;
+}
